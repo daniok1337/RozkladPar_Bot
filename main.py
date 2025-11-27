@@ -2,6 +2,7 @@ import asyncio
 import pytz
 import logging
 import os
+import sys
 from aiogram.types import BotCommand
 from datetime import datetime
 from aiogram import Bot, Dispatcher
