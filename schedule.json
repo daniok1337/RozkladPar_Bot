@@ -1,0 +1,35 @@
+{
+  "Monday": [
+    { "time": "08:00-09:20", "subject": "Метод Оптимізації та Дослідження Операцій", "link": "https://us02web.zoom.us/j/83839932705?pwd=bmFzOWV4ZEt4TGJTUGluOEJGaVFBQT09", "week_type": "both" },
+    { "time": "09:30-10:50", "subject": "Метод Оптимізації та Дослідження Операцій", "link": "https://us02web.zoom.us/j/83839932705?pwd=bmFzOWV4ZEt4TGJTUGluOEJGaVFBQT09", "week_type": "both" }
+  ],
+  "Tuesday": [
+    { "time": "08:0-09:20", "subject": "Об'єктно-Орієнтоване Програмування", "link": "https://us04web.zoom.us/j/9560807813?pwd=QklQNzhYQmFvUXQrckhYb3p2UkVXUT09", "week_type": "both" },
+    { "time": "09:30-10:50", "subject": "Об'єктно-Орієнтоване Програмування", "link": "https://us04web.zoom.us/j/9560807813?pwd=QklQNzhYQmFvUXQrckhYb3p2UkVXUT09", "week_type": "both" }
+  ],
+  "Wednesday": [],
+  "Thursday": [
+    { "time": "09:30-10:50", "subject": "Диференціальні Рівняння", "link": "https://us04web.zoom.us/j/8578348163?pwd=RFY3eDJGTkRMN3RVeWNsVEFjMXpwUT09", "week_type": "even" },
+    { "time": "11:20-12:40", "subject": "Основи Юриспруденції", "link": "https://us05web.zoom.us/j/6562574805?pwd=RW1wUzFOVrn5RSm02dE1FN", "week_type": "both" },
+    { "time": "12:50-14:10", "subject": "Диференціальні Рівняння", "link": "https://us04web.zoom.us/j/8578348163?pwd=RFY3eDJGTkRMN3RVeWNsVEFjMXpwUT09", "week_type": "both" },
+    { "time": "14:20-15:40", "subject": "Технології Розробки ПЗ", "link": "https://us02web.zoom.us/j/4483896971?pwd=OG8zS0J5WUlka19PVXMvaVdseVFrQT09", "week_type": "both" },
+    { "time": "15:50-17:10", "subject": "Технології Розробки ПЗ", "link": "https://us02web.zoom.us/j/4483896971?pwd=OG8zS0J5WUlka19PVXMvaVdseVFrQT09", "week_type": "odd" }
+  ],
+  "Friday": [
+    { "time": "09:30-10:50", "subject": "Економіка", "link": "https://meet.google.com/wyr-eyse-zmh", "week_type": "odd" },
+    { "time": "09:30-10:50", "subject": "Операційні системи", "link": "https://meet.google.com/uqs-viaz-zzh?authuser=3&hs=179", "week_type": "even" },
+    { "time": "11:20-12:40", "subject": "Економіка", "link": "https://meet.google.com/wyr-eyse-zmh", "week_type": "odd" },
+    { "time": "11:20-12:40", "subject": "Операційні системи", "link": "https://meet.google.com/uqs-viaz-zzh?authuser=3&hs=179", "week_type": "even" },
+    { "time": "12:50-14:10", "subject": "Операційні системи", "link": "https://meet.google.com/uqs-viaz-zzh?authuser=3&hs=179", "week_type": "even" }
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
+
+
+
+
+
+
+
+  
