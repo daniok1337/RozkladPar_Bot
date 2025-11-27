@@ -1,7 +1,6 @@
 import asyncio
 import pytz
 import logging
-import sys
 import os
 from aiogram.types import BotCommand
 from datetime import datetime
